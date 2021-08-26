@@ -1,0 +1,14 @@
+.about p{
+    text-align: center;
+    font-size: 18px;
+    max-width: 1000px;
+    margin-left: 300px;
+    background-color: #eff6ff;
+}
+.follow a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin-left: 20px;
+    
+}

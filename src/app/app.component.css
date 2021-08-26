@@ -1,0 +1,22 @@
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+}
+.navbar-nav{
+    font-size: 17px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    margin-top: auto;
+}
+footer p{
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    line-height: 5rem;
+    font-size: 17px;
+}

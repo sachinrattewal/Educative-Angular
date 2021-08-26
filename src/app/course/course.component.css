@@ -1,0 +1,18 @@
+.course{
+    padding: 50px 100px;
+}
+.box{
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid rgb(227, 227, 248);
+}
+.box h4{
+    margin-top: 15px;
+    text-align: center;
+}
+.box button{
+    margin-left: 60px
+}
+.box p{
+    text-align: center;
+}
